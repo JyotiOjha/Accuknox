@@ -19,6 +19,10 @@ In this task, a dataset containing student test scores was processed to calculat
 - Django was used to create an API that stores and retrieves student test score data.
 - The API fetched data from a dataset containing student IDs and test scores.
 - The average score was calculated and represented as a bar chart.
+  
+### Output
+    
+![avg_bar(Output)](https://github.com/JyotiOjha/Accuknox/assets/82596078/4954954d-2c43-4938-b2fb-9f852c17e6b9)
 
 ## Task 3: Importing User Details from Kaggle Dataset
 
