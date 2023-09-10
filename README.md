@@ -24,7 +24,7 @@ In this task, a dataset containing student test scores was processed to calculat
     
 ![avg_bar(Output)](https://github.com/JyotiOjha/Accuknox/assets/82596078/4954954d-2c43-4938-b2fb-9f852c17e6b9)
 
-## Task 3: Importing User Details from Kaggle Dataset
+## Task 3: Importing User Details from CSV file and storing it in database
 
 ### Description:
 For this task, a dataset consisting of user details, including user IDs and additional information, was obtained from Kaggle. The goal was to import this data into a database for further analysis.
